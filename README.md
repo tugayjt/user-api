@@ -10,13 +10,6 @@ A simple web application that fetches user data from an API and displays it in a
 - Displays user data in a dynamic HTML table.
 - Provides basic styling and interactivity with CSS.
 
-## Demo
-
-You can see a live demo [here](#) (insert link to live demo if available).
-
-## Screenshots
-
-(Optional: Add screenshots of your application)
 
 ## Installation
 
